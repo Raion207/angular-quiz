@@ -1,0 +1,110 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "categoryLabel": "Musique"
+    },
+    {
+      "id": 2,
+      "categoryLabel": "Sport"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "questionLabel": "What is a component in Angular?"
+    },
+    {
+      "id": 2,
+      "questionLabel": "Explain the purpose of the NgModule in Angular."
+    },
+    {
+      "id": 3,
+      "questionLabel": "How do you create a new Angular application?"
+    }
+  ],
+  "answers": [
+    {
+      "questionId": 1,
+      "answerLabel": "A reusable building block for the user interface",
+      "isCorrect": true
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "A style in Angular",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "A service for handling HTTP requests",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "A routing configuration",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "NgModule is used to declare and configure modules in Angular applications.",
+      "isCorrect": true
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "NgModule is a component in Angular.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "NgModule is used for data binding in Angular.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "NgModule is a directive in Angular.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "You can create a new Angular application using the Angular CLI by running 'ng new app-name'.",
+      "isCorrect": true
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "You can create a new Angular application by writing HTML and CSS files.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "You can create a new Angular application using pure JavaScript.",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "You can create a new Angular application using Python.",
+      "isCorrect": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Raion",
+      "password": "raion1234"
+    },
+    {
+      "id": 2,
+      "username": "Kibi",
+      "password": "kibi1234"
+    },
+    {
+      "id": 3,
+      "username": "Meldwin",
+      "password": "meldwin1234"
+    },
+    {
+      "username": "Huss",
+      "password": "huss1234",
+      "id": 4
+    }
+  ]
+}
